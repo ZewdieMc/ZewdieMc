@@ -27,7 +27,7 @@ Hi, I'm Zewdie currently available for Job
 ---
 ### About Me :
 
-- 🔭 I’m currently available for hire
+- 🔭 I’m currently available for Job
 - 🌱 I’m currently learning Microverse
 - 👯 I’m looking to collaborate software engineers
 - 💬 Ask me about Front-End Technology
