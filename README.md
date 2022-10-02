@@ -31,7 +31,7 @@ Hi, I'm Zewdie currently available for Job
 - 🌱 I’m currently learning Microverse
 - 👯 I’m looking to collaborate software engineers
 - 💬 Ask me about Front-End Technology
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
 - ⚡ Fun fact: I invest 12 hour in a day on coding
 
 ---
@@ -43,6 +43,12 @@ Hi, I'm Zewdie currently available for Job
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C programming" **alt="C" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java programming" **alt="Java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  
 </div>
 
 ---
