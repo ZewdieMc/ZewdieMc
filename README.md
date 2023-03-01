@@ -11,19 +11,25 @@
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 </div>
-<div align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
-<h1>
-Hi, I'm Zewdie currently available for Job
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
-### About Me :
+## Hi, :wave:
+```js
+const Zewdie = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["He", "Him"],
+  code: [JavaScript, React, NodeJs, NextJs, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+  Tailwind CSS, Material UI],
+  challenge: "I am honing my React skills and picking up TypeScript",
+  funFacts: ['I have 1 year of remote work experience with devs 
+  from all over the world', 
+  'Nathan is my handsome son, and a second coming']
+}
+```
+## About Me :
 
 - 🔭 I’m currently available for Job
 - 🌱 I’m currently learning Microverse
@@ -33,7 +39,7 @@ Hi, I'm Zewdie currently available for Job
 - ⚡ Fun fact: I invest 12 hour in a day on coding
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -55,7 +61,7 @@ Hi, I'm Zewdie currently available for Job
 
 ---
 
-# 📊 My Stats:
+## 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZewdieMc&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZewdieMc&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZewdieMc&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
