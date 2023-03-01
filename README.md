@@ -4,7 +4,7 @@
 <img src="./Zewdie_habtie.gif" width='100%' height='auto'/>
 </div>
 
-## Hi, :wave:
+## Hi, :wave:, I'm Zewdie Habtie
 ```js
 const Zewdie = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
@@ -20,7 +20,7 @@ const Zewdie = {
 ## About Me :
 
 - 🔭 I’m currently available for Job
-- 🌱 I’m currently learning Microverse
+- 🌱 I’m currently a full time student at Microverse Inc. forging ahead to building a career in software development
 - 👯 I’m looking to collaborate software engineers
 - 💬 Ask me about Front-End Technology
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
