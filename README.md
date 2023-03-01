@@ -27,6 +27,7 @@ const Zewdie = {
 - ⚡ Fun fact: I invest 12 hour in a day on coding
 
 ---
+## Let's Connet
 <div id="badges"align="center">
 <a href="https://www.linkedin.com/in/zewdie-habtie-sisay-947153172/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
