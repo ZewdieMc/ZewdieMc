@@ -13,7 +13,7 @@
 </div>
 </h1>
 <div align="center">
-<img src="./Zewdie_habtie.gif"/>
+<img src="./Zewdie_habtie.gif" width='100%' height='auto'/>
 </div>
 
 ## Hi, :wave:
