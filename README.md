@@ -4,7 +4,7 @@
 <img src="./Zewdie_habtie.gif" width='100%' height='auto'/>
 </div>
 
-## Hi, :wave:
+## Hi, :wave:, I'm Zewdie Habtie
 ```js
 const Zewdie = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
@@ -20,13 +20,13 @@ const Zewdie = {
 ## About Me :
 
 - 🔭 I’m currently available for Job
-- 🌱 I’m currently learning Microverse
+- 🌱 I’m currently a full time student at Microverse Inc. forging ahead to building a career in software development
 - 👯 I’m looking to collaborate software engineers
 - 💬 Ask me about Front-End Technology
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
 - ⚡ Fun fact: I invest 12 hour in a day on coding
 
----
+## Let's Connet
 <div id="badges"align="center">
 <a href="https://www.linkedin.com/in/zewdie-habtie-sisay-947153172/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -41,7 +41,6 @@ const Zewdie = {
 </h1>
 
 
----
 ## :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -62,7 +61,6 @@ const Zewdie = {
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
 </div>
 
----
 
 ## 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZewdieMc&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -72,5 +70,4 @@ const Zewdie = {
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@HabtieZewdie)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
 [![](https://visitcount.itsvg.in/api?id=ZewdieMc&icon=5&color=3)](https://visitcount.itsvg.in)
