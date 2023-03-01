@@ -1,17 +1,5 @@
 
 
-<div id="badges"align="center">
-<a href="https://www.linkedin.com/in/zewdie-habtie-sisay-947153172/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://github.com/ZewdieMc">
-<img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-</a>
-<a href="https://twitter.com/HabtieZewdie">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
-</div>
-</h1>
 <div align="center">
 <img src="./Zewdie_habtie.gif" width='100%' height='auto'/>
 </div>
@@ -37,6 +25,21 @@ const Zewdie = {
 - 💬 Ask me about Front-End Technology
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
 - ⚡ Fun fact: I invest 12 hour in a day on coding
+
+---
+<div id="badges"align="center">
+<a href="https://www.linkedin.com/in/zewdie-habtie-sisay-947153172/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://github.com/ZewdieMc">
+<img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+</a>
+<a href="https://twitter.com/HabtieZewdie">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+</div>
+</h1>
+
 
 ---
 ## :hammer_and_wrench: Languages and Tools :
