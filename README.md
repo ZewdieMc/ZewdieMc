@@ -1,7 +1,5 @@
 
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 <div id="badges"align="center">
 <a href="https://www.linkedin.com/in/zewdie-habtie-sisay-947153172/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -56,9 +54,14 @@ Hi, I'm Zewdie currently available for Job
 </div>
 
 ---
-### My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZewdieMc&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZewdieMc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Zewdie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZewdieMc&show_icons=true&theme=tokyonight)
+# 📊 My Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZewdieMc&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZewdieMc&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZewdieMc&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@HabtieZewdie)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ZewdieMc&icon=5&color=3)](https://visitcount.itsvg.in)
