@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="./Zewdie_habtie.gif" width='100%' height='auto'/>
+<img src="./zewdie_habtie.gif" width='100%' height='auto'/>
 </div>
 
 ## Hi, :wave:, I'm Zewdie Habtie
