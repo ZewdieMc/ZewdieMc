@@ -6,16 +6,15 @@
 
 ## Hi, :wave:, I'm Zewdie Habtie
 ```js
-const Zewdie = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["He", "Him"],
-  code: [JavaScript, React, NodeJs, NextJs, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS, Material UI],
-  challenge: "I am honing my React skills and picking up TypeScript",
-  funFacts: ['I have 1 year of remote work experience with devs 
-  from all over the world', 
-  'Nathan is my handsome son, and a second coming']
-}
+ ___  ___  ___          _________  ___  ___  _______   ________  _______   ___       
+|\  \|\  \|\  \        |\___   ___\\  \|\  \|\  ___ \ |\   __  \|\  ___ \ |\  \      
+\ \  \\\  \ \  \       \|___ \  \_\ \  \\\  \ \   __/|\ \  \|\  \ \   __/|\ \  \     
+ \ \   __  \ \  \           \ \  \ \ \   __  \ \  \_|/_\ \   _  _\ \  \_|/_\ \  \    
+  \ \  \ \  \ \  \           \ \  \ \ \  \ \  \ \  \_|\ \ \  \\  \\ \  \_|\ \ \__\   
+   \ \__\ \__\ \__\           \ \__\ \ \__\ \__\ \_______\ \__\\ _\\ \_______\|__|   
+    \|__|\|__|\|__|            \|__|  \|__|\|__|\|_______|\|__|\|__|\|_______|   ___ 
+                                                                                |\__\
+                                                                                \|__|
 ```
 ## About Me :
 
