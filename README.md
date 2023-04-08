@@ -4,7 +4,7 @@
 <img src="./zewdie_habtie.gif" width='100%' height='auto'/>
 </div>
 
-## Hi, :wave:, I'm Zewdie Habtie
+# :wave:
 ```js
  ___  ___  ___          _________  ___  ___  _______   ________  _______   ___       
 |\  \|\  \|\  \        |\___   ___\\  \|\  \|\  ___ \ |\   __  \|\  ___ \ |\  \      
