@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate software engineers
 - 💬 Ask me about Front-End Technology
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
-- ⚡ Fun fact: I invest 8 hour in a day on coding
+- ⚡ Fun fact: I invest 8 hours in a day on coding
 
 ## Let's Connet
 <div id="badges"align="center">
