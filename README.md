@@ -18,10 +18,10 @@
 ```
 ## About Me :
 
-- 🔭 I’m currently available for Job
-- 🌱 I’m currently a full time student at Microverse Inc. forging ahead to building a career in software development
-- 👯 I’m looking to collaborate software engineers
-- 💬 Ask me about Front-End Technology
+<!---- 🔭 I’m currently available for Job -->
+- 🌱 I’m currently a full time student at [IFROS]([....](https://ifrosmaster.org/)) an Erasmus Mundus Joint Master Degree(EMJMD) in Intelligent Field Robotics Systems.
+<!---- 👯 I’m looking to collaborate software engineers-->
+- 💬 Ask me about Front-End Technology and Robotics
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
 - ⚡ Fun fact: I invest 8 hours in a day on coding
 
