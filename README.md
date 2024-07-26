@@ -19,7 +19,7 @@
 ## About Me :
 
 <!---- 🔭 I’m currently available for Job -->
-- 🌱 I’m currently a full time student at [IFROS]([....](https://ifrosmaster.org/)) an Erasmus Mundus Joint Master Degree(EMJMD) in Intelligent Field Robotics Systems.
+- 🌱 I’m currently a full time student at [IFROS](https://ifrosmaster.org/) an Erasmus Mundus Joint Master Degree(EMJMD) in Intelligent Field Robotics Systems.
 <!---- 👯 I’m looking to collaborate software engineers-->
 - 💬 Ask me about Front-End Technology and Robotics
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
