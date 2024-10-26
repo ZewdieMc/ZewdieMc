@@ -61,7 +61,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" title="ROS" **alt="ROS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="MATLAB" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original.svg" title="C++" **alt="C++" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original.svg" title="C++" **alt="C++" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>
 </div>
 
