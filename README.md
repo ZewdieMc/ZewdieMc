@@ -23,7 +23,8 @@
 <!---- 👯 I’m looking to collaborate software engineers-->
 - 💬 Ask me about Front-End Technology and Robotics
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
-- ⚡ Fun fact: I invest 8 hours in a day on coding
+- ⚡ Fun fact: Robot dogs with AI can now be controlled via a web interface
+
 
 ## Let's Connet
 <div id="badges"align="center">
