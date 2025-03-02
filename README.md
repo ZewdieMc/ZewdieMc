@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="./Mc.gif" width='100%' height='auto'/>
+<img src="./Mcc.gif" width='100%' height='auto'/>
 </div>
 
 # :wave:
