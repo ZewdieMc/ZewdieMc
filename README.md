@@ -22,7 +22,7 @@
 - 🌱 I'm a Robotics Software Engineer 🤖 currently working at [CDEI](https://cdei.upc.edu/ca) for a European Union project named [DISCOVER](https://discover-horizon.eu/).
 - [My Portfolio](https://zedportfolio.netlify.app/) 👱
 <!---- 👯 I’m looking to collaborate software engineers-->
-- 💬 Ask me about Front-End Technology and Robotics 
+- 💬 Ask me about AI, Robotics and Front-End Technologies
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
 - ⚡ Fun fact: I’m fascinated by how robotics and AI can help us shape the future before they shape us.
 
