@@ -24,10 +24,10 @@
 <!---- 👯 I’m looking to collaborate software engineers-->
 - 💬 Ask me about Front-End Technology and Robotics 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zewdie-habtie-sisay-947153172)
-- ⚡ Fun fact: Robot dogs with AI can now be controlled via a web interface
+- ⚡ Fun fact: I’m fascinated by how robotics and AI can help us shape the future before they shape us.
 
 
-## Let's Connet
+## Let's Connect
 <div id="badges"align="center">
 <a href="https://www.linkedin.com/in/zewdie-habtie-sisay-947153172/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
